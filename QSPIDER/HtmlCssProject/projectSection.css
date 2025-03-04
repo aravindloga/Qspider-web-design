@@ -1,0 +1,39 @@
+.projectSection{
+    width: 100%;
+    height: 50vh;
+}
+.projectSection section{
+    background-color: skyblue;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 25px;
+}
+.projectSection section .projectImage{
+    height: 80%;
+    width: 80%;
+    /* background-color: violet; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBQR6or5vKP6zeBwUAII0BRFrrvSi427hSA&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    border-radius: 20px;
+}
+.projectSection section a{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-size: 32px;
+    margin-top: 20px;
+    
+}
+.projectSection section .projectImage:hover{
+    background-size: 110%;
+    cursor: pointer;
+    background-position: center;
+}
+.projectSection section a:hover{
+    text-decoration: underline;
+}

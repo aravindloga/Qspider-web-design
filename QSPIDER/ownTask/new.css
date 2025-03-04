@@ -1,0 +1,16 @@
+li{
+    height: 100px;
+    width: 400px;
+    border: 1px solid;
+    padding: 20px;
+    /* display: inline-block; */
+}
+ol{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    /* we need the heigth for the y axis  */
+    
+    flex-direction: column;
+
+}

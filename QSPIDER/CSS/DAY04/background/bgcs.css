@@ -1,0 +1,20 @@
+
+/*div{
+    /* border: 20px solid black;
+    height: 70vh;
+    background-image: url("https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp");
+    /* background-position values top bottom centre 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right; 
+    }*/
+section{
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("image.png");
+    
+}
+

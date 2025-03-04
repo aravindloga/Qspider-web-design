@@ -1,0 +1,17 @@
+#list{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    line-height: 1.5;
+    border-bottom: 1px solid black;
+    
+}
+#list li{
+    font-size: 18px;
+    
+}
+li:hover{
+    text-decoration: underline;
+    
+    
+}

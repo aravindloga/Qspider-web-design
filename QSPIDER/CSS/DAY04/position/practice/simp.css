@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+section{
+    /* x axis */
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    column-gap: 12px; 
+    /* because of using in x-axis use justify-content */
+    align-items: center;
+    
+    
+
+
+}
+p{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+
+}

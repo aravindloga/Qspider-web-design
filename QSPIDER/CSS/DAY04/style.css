@@ -1,0 +1,30 @@
+p{
+    /* text color */
+    color: blue;
+    /* background color */
+
+    
+}
+#para{
+    color: red;
+    /* align text start,center ,end */
+    text-align: center; 
+    /*  overline &underline &linethough*/
+
+    text-decoration: underline;
+   /* changing the case(upper,lower,etc) */
+   text-transform: capitalize;
+   /* the space between the line  */
+   line-height: 6px;
+
+
+    
+}
+/* more commonly used fonts are monospace,serif,sans-serif  */
+.fontfam{
+    font-size: 20px;
+    font-family: monospace,sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    
+}

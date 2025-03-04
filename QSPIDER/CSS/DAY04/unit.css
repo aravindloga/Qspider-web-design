@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+/* boreder-box means includes padding marign border */
+div{
+    border: 1px solid;
+    height: 100%;
+    font-size: 2vh;
+}
+/* 1rem=16px */
+body{
+    
+    border: 1px solid black;
+    margin: 5px;
+}
+p{
+    padding: 10px;
+}

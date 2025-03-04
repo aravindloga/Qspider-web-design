@@ -1,0 +1,10 @@
+.Summary{
+    text-align: center;
+    height: 70px;
+    background-color: darkgray;
+    padding: 10px;
+
+}
+.Summary p{
+    margin-bottom: 0;
+}

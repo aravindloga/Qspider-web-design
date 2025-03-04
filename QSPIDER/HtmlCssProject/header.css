@@ -1,0 +1,40 @@
+header{
+    
+    width: 100%;
+    display: flex;
+    background-color: gray;
+    /* border: 2px solid; */
+    height: 10vh;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 30px;
+    position: sticky;
+    font-size: 32px;
+    /* to stick we need to give the sticky */
+    top: 0;
+    
+}
+header #Logo{
+    margin: 5px;
+    font-weight: 800;
+    font-family: sans-serif;
+    font-style: italic;
+}
+header nav{
+    display: flex;
+    column-gap: 20px;
+}
+
+header nav a{
+    text-decoration: none;
+    border-radius: 20px;
+    color: black;
+    padding: 10px 20px;
+}
+
+header nav a:hover{
+    background-color: black;
+    color: aliceblue;
+}
