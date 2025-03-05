@@ -5,6 +5,7 @@
 @import url(tablecss.css);
 @import url(listcss.css);
 @import url(summary.css);
+@import url(foot.css);
 
 *{
     margin: 0;

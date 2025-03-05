@@ -8,10 +8,15 @@
 }
 #list li{
     font-size: 18px;
+    text-transform: capitalize;
     
 }
 li:hover{
-    text-decoration: underline;
+    text-decoration: underline red;
+    /* text-decoration: none; */
+    cursor: pointer;
+    
+    
     
     
 }

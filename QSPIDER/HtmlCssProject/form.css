@@ -15,7 +15,7 @@
     justify-content: center;
     width: 50%;
     height: 60%;
-    background-color: darkgreen;
+    background-color: blue;
     border-radius: 25px;
     
 }
@@ -52,8 +52,14 @@
 }
 .form #inputform input:hover{
     border: 1px solid lightgreen;
-    background-color: lightgreen;
+    background: linear-gradient(45deg, rgb(232, 255, 57), rgb(0, 174, 255));
 }
 .form #inputform #pass{
     margin-bottom: 8px;
+}
+
+.form #inputform button:hover{
+    background-color: lightblue;
+    background: linear-gradient(45deg, rgb(225, 255, 57), rgb(0, 166, 255));
+
 }

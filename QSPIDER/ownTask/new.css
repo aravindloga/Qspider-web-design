@@ -1,16 +1,11 @@
-li{
-    height: 100px;
-    width: 400px;
-    border: 1px solid;
-    padding: 20px;
-    /* display: inline-block; */
-}
-ol{
+#parent{
+    height: 100vh;
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    /* we need the heigth for the y axis  */
-    
     flex-direction: column;
-
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 100px;
+    width: 100px;
 }
