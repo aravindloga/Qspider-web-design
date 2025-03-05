@@ -35,8 +35,9 @@
     
 }
 #hero #bodyContent button:hover{
-    background: linear-gradient(45deg, rgb(225, 255, 57), rgb(0, 166, 255));
+    background-color: gray;
     cursor: pointer;
+    color: azure;
 }
 #hero #bodyimage{
     height: 100%;

@@ -52,7 +52,7 @@
 }
 .form #inputform input:hover{
     border: 1px solid lightgreen;
-    background: linear-gradient(45deg, rgb(232, 255, 57), rgb(0, 174, 255));
+    background-color: lightblue;
 }
 .form #inputform #pass{
     margin-bottom: 8px;
@@ -60,6 +60,6 @@
 
 .form #inputform button:hover{
     background-color: lightblue;
-    background: linear-gradient(45deg, rgb(225, 255, 57), rgb(0, 166, 255));
+    background-color: lightblue;
 
 }
